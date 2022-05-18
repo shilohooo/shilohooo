@@ -3,7 +3,7 @@ Welcome to my `Github` home page.
 
 I am a `Software Developer`:)
 
-I code with: 
+I code with: 👇
 
 <div>
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
