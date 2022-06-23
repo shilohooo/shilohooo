@@ -1,5 +1,5 @@
 # Hi, I am Shiloh:)
-## Welcome to my `Github` Repo.
+## Welcome to my Github Repo.
 
 I am a `Software Developer`:)
 
