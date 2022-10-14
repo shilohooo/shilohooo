@@ -13,7 +13,7 @@ I code with: 👇
   <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
 </div>
 
-There is My Most Used Languages:
+The following are my most commonly used programming languages:
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shilohooo&theme=blue-green" alt="Most Used Languages" />
 
