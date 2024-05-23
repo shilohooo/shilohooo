@@ -1,9 +1,36 @@
 # Hi, there:)
 
 ```java
+package org.shiloh;
+
+/**
+ * @author shiloh
+ * @date 2024/5/23 17:19
+ */
 public class Hello {
     public static void main(String[] args) {
-        System.out.println("Enjoy coding😁");
+        System.out.println("please enjoy coding😁");
+    }
+}
+```
+
+```js
+// ...
+const message = 'and keep learning💻.';
+console.log(message);
+```
+
+```csharp
+namespace Hello.World;
+
+/// <summary>
+/// ...
+/// </summary>
+internal class Program
+{
+    private static void Main(string[] args)
+    {
+        Console.WriteLine("you can do it!");
     }
 }
 ```
