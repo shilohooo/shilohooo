@@ -9,14 +9,14 @@ package org.shiloh;
  */
 public class Hello {
     public static void main(String[] args) {
-        System.out.println("please enjoy coding😁");
+        System.out.println("PLEASE");
     }
 }
 ```
 
 ```typescript
 // ...
-const message: string = 'and keep learning💻.';
+const message: string = 'ENJOY';
 console.log(message);
 ```
 
@@ -30,7 +30,7 @@ internal class Program
 {
     private static void Main(string[] args)
     {
-        Console.WriteLine("you can do it👍!");
+        Console.WriteLine("CODING😄");
     }
 }
 ```
