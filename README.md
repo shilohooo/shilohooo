@@ -40,6 +40,11 @@ internal class Program
 SELECT 'Hello World:)' as greeting;
 ```
 
+```python
+# ...
+print('Hello, World!')
+```
+
 ## Languages📚
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
