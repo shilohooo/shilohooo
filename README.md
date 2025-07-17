@@ -49,9 +49,13 @@ print('Hello, World!')
 echo 'Hello World:)'
 ```
 
+## Most Used Languages ⌨️
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shilohooo)](https://github.com/shilohooo)
+
 ## Github Stats⭐
 
-<img src="https://github-readme-stats.vercel.app/api?username=shilohooo&theme=blue-green" alt="Github Stats" />
+![Shilohooo's GitHub stats](https://github-readme-stats.vercel.app/api/?username=shilohooo\&show_icons=true\&title_color=fff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=151515)
 
 <!--
 **shilohooo/shilohooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
