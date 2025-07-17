@@ -45,6 +45,10 @@ SELECT 'Hello World:)' as greeting;
 print('Hello, World!')
 ```
 
+```shell
+echo 'Hello World:)'
+```
+
 ## Github Stats⭐
 
 <img src="https://github-readme-stats.vercel.app/api?username=shilohooo&theme=blue-green" alt="Github Stats" />
