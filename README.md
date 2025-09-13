@@ -1,7 +1,7 @@
 # Hi, there:)
 
 ```java
-package org.shiloh;
+package com.github.shiloh;
 
 /**
  * @author shiloh
@@ -32,6 +32,12 @@ internal class Program
     {
         Console.WriteLine("CODING😄");
     }
+}
+```
+
+```kotlin
+fun main() {
+    println("Hello World~")
 }
 ```
 
