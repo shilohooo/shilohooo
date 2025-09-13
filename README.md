@@ -38,6 +38,10 @@ internal class Program
 ```kotlin
 package com.github.shiloh
 
+/**
+ * @author shiloh
+ * @date 2025/9/13 11:50
+ */
 fun main() {
     println("Hello World~")
 }
