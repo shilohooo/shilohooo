@@ -36,6 +36,8 @@ internal class Program
 ```
 
 ```kotlin
+package com.github.shiloh
+
 fun main() {
     println("Hello World~")
 }
