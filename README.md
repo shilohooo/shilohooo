@@ -1,16 +1,10 @@
 # Hi, there:)
 
 ```java
-package com.github.shiloh;
+import static java.lang.IO.println;
 
-/**
- * @author shiloh
- * @date 2024/5/23 17:19
- */
-public class Hello {
-    public static void main(String[] args) {
-        System.out.println("PLEASE");
-    }
+void main() {
+    println("PLEASE");
 }
 ```
 
